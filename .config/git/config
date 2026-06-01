@@ -1,0 +1,10 @@
+[user]
+	name = Tim Naumov
+	email = tnaumov.dev@gmail.com
+[init]
+	defaultBranch = main
+[color]
+	status = auto
+	branch = auto
+	diff = auto
+	interactive = auto

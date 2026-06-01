@@ -1,0 +1,8 @@
+theme = Ubuntu
+keybind = performable:ctrl+c=copy_to_clipboard
+keybind = ctrl+v=paste_from_clipboard
+
+quit-after-last-window-closed = true
+quit-after-last-window-closed-delay = 15m
+gtk-single-instance = true
+
