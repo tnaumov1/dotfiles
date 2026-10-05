@@ -1,0 +1,30 @@
+{
+  "lastChangelogVersion": "1.0.0",
+  "theme": "dark",
+  "defaultProvider": "llama.cpp",
+  "defaultModel": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF:Q4_K_XL",
+  "defaultThinkingLevel": "low",
+  "enableInstallTelemetry": false,
+  "hideThinkingBlock": true,
+  "quietStartup": true,
+  "collapseChangelog": true,
+  "showCacheMissNotices": true,
+  "transport": "auto",
+  "markdown": {
+    "mermaid": "final"
+  },
+  "enableSkillCommands": false,
+  "enabledModels": [
+    "moonshotai/kimi-k3",
+    "zai/glm-5.3",
+    "moonshotai/kimi-k2.7-code",
+    "zai/glm-5.3-flash",
+    "llama.cpp/unsloth/Qwen3.6-35B-A3B-MTP-GGUF:Q4_K_XL"
+  ],
+  "images": {
+    "blockImages": false
+  },
+  "modelThinkingLevels": {
+    "llama.cpp/unsloth/Qwen3.6-35B-A3B-MTP-GGUF:Q4_K_XL": "off"
+  }
+}
